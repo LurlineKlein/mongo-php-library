@@ -1,0 +1,18 @@
+=========
+Functions
+=========
+
+.. default-domain:: mongodb
+
+.. contents:: On this page
+   :local:
+   :backlinks: none
+   :depth: 1
+   :class: singlecol
+
+.. toctree::
+   :titlesonly:
+
+   /reference/function/add_logger
+   /reference/function/remove_logger
+   /reference/function/with_transaction
