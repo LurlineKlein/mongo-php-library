@@ -1,4 +1,4 @@
-# Releasing
+! Releasing
 
 The following steps outline the release process for both new minor versions (e.g.
 releasing the `master` branch as X.Y.0) and patch versions (e.g. releasing the
@@ -176,7 +176,7 @@ The following template should be used for creating GitHub release notes via
 ```markdown
 The PHP team is happy to announce that version X.Y.Z of the MongoDB PHP library is now available.
 
-**Release Highlights**
+#*Release Highlights**
 
 <one or more paragraphs describing important changes in this release>
 
@@ -230,3 +230,4 @@ projects:
 
 These tasks can be initiated prior to tagging a new release to ensure that the
 updated content becomes accessible soon after the release is published.
+ 
